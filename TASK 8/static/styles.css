@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1a1a1a;
+    color: white;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
