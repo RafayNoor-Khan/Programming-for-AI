@@ -1,0 +1,46 @@
+{
+    "questions": {
+        "hi":"Hello how can I assist you today?",
+        "hello":"Hello how can I assist you today?",
+        "what are your opening hours": "Our opening hours are:\n\n- Monday-Friday: 9am-9pm\n- Saturday: 10am-6pm\n- Sunday: 12pm-5pm\n\n*Closed on major public holidays*",
+        "where is the library located": "We're located at:\n\n📌 123 Knowledge Street\nCity Center, Library District\n(Next to the Town Hall)\n\nFree parking is available in the adjacent lot.",
+        "what are your holiday hours": "During holidays, our hours may vary:\n\n- Christmas Eve: 9am-3pm\n- Christmas Day: Closed\n- New Year's Eve: 9am-5pm\n- New Year's Day: 12pm-5pm\n\nCheck our website for updates on other holidays.",
+        "do you have wifi": "Yes! We offer:\n\n🔹 Free high-speed WiFi throughout the building\n🔹 Network: 'PublicLibrary'\n🔹 No password required\n🔹 10 device limit per person\n🔹 Printing available from WiFi devices ($0.10/page)",
+
+        "how do i get a library card": "Getting a library card is easy!\n\n✅ Requirements:\n- Valid photo ID\n- Proof of local address\n\n🆓 Free for residents\n💲 $25/year for non-residents\n\nVisit any circulation desk to apply (takes 5 minutes).",
+        "can i get a digital library card": "Yes! Our eCard gives you:\n\n📱 Immediate access to:\n- eBooks\n- eAudiobooks\n- Digital magazines\n- Research databases\n\nApply online at our website (valid for 30 days until you verify with ID).",
+        "what are the age requirements for a library card": "Age requirements:\n\n👶 Children (0-12): Parent/guardian must sign\n🧒 Teens (13-17): Can get own card with parent consent\n👩‍🎓 Adults (18+): Can register independently\n👵 Seniors (65+): Free replacement cards",
+       
+        "how many books can i borrow at once": "Borrowing limits:\n\n📚 15 physical items total:\n- Books: unlimited within total\n- DVDs: 10 max\n- Audiobooks: 10 max\n- Music CDs: 10 max\n\n💻 Plus 10 digital items simultaneously",
+        "what is the loan period for books": "Loan periods:\n\n📖 Books: 3 weeks (1 renewal)\n🎥 DVDs: 1 week (no renewal)\n🎧 Audiobooks: 3 weeks (1 renewal)\n💿 Music CDs: 2 weeks (1 renewal)\n🔍 Reference: Library use only",
+        "what is the late fee for overdue books": "Late fees:\n\n📚 Books/Audiobooks: $0.25/day ($5 max)\n🎥 DVDs/CDs: $1/day ($10 max)\n\n🚫 Accounts blocked at $10 in fees\n💳 Pay online or at circulation desk",
+        "can i renew my books online": "Yes! Renewals:\n\n🔄 Most items renew once\n⏱️ Renew up to 3 days before due\n💻 Online via 'My Account'\n📱 Mobile app option\n📞 Phone: 555-123-4567\n\n*Some items may have holds preventing renewal*",
+    
+        "how do i access ebooks": "Access eBooks through:\n\n1. Visit our website → Digital Library\n2. Select platform (Libby, Hoopla, etc.)\n3. Enter library card number\n4. Browse and borrow\n\nNeed help? Ask about our Tech Tutoring sessions!",
+        "what digital resources do you offer": "We provide:\n\n📚 eBooks (Libby, CloudLibrary)\n🎧 eAudiobooks\n📰 Digital magazines (RBdigital)\n🎞️ Streaming movies (Kanopy, Hoopla)\n🎼 Music (Freegal)\n💻 Online learning (LinkedIn Learning)\n🔍 Research databases",
+        
+        "do you have study rooms": "Study rooms available:\n\n🛋️ 6 private rooms\n⏰ 2 hour slots (renew if available)\n🔌 Power outlets & WiFi\n📶 Whiteboards available\n\nReserve:\n- Online\n- At info desk\n- By phone\n\n*Food/drinks in covered containers only*",
+        "do you offer printing services": "Printing services:\n\n🖨️ B&W: $0.10/page\n🌈 Color: $0.50/page\n📄 Scanning: Free\n📑 Faxing: $1/page\n💳 Pay with coins, bills, or card\n\nSend prints from:\n- Library computers\n- Your device via WiFi\n- Email attachment",
+        "do you have computers for public use": "Computer access:\n\n💻 25 Windows PCs\n🖥️ 10 iMacs\n⏱️ 2 hour sessions (extend if available)\n🖨️ Printing capability\n📶 Internet access\n🔌 USB ports\n\n*Library card or guest pass required*",
+        
+        "do you have book clubs": "Book clubs:\n\n📖 General Fiction: 1st Tuesday\n🧩 Mystery Lovers: 2nd Wednesday\n📚 Classics Circle: 3rd Thursday\n🌍 International: 4th Friday\n\n⏰ All at 6:30pm in Meeting Room B\n📚 Current selections on our website",
+        "do you have children's programs": "Children's programs:\n\n👶 Baby Storytime (0-18mo): Mon 10am\n🧒 Toddler Time (18mo-3y): Tue 10am\n📚 Preschool Stories (3-5y): Wed 10am\n🎨 Craft Saturdays: Sat 11am\n📖 Summer Reading Program: June-Aug\n\nAll programs free, no registration!",
+        "do you offer tutoring services": "Tutoring available:\n\n✍️ Homework Help: Mon-Thu 3-6pm\n💻 Tech Tutoring: By appointment\n📖 Adult Literacy: Weekly sessions\n🧮 Math Lab: Wednesdays 4-5pm\n\nVolunteer tutors from local colleges",
+        
+       
+        "can i donate books": "Book donations:\n\n✅ Accepted:\n- Gently used books\n- Recent publications\n- Clean condition\n\n❌ Not accepted:\n- Textbooks >5 years old\n- Encyclopedias\n- Moldy/damaged items\n\nTax receipts available",
+        "do you have meeting rooms for public use": "Meeting rooms:\n\n🏢 3 rooms available\n⏰ 4 hour max\n💲 Non-profit: Free\n🏢 Businesses: $25/hour\n\nReserve:\n- Online (2 weeks advance)\n- Proof of organization may be required\n\n*No commercial sales events*",
+        "do you have notary services": "Notary services:\n\n📜 Available Tue/Thu 1-4pm\n💲 $5 per signature\n📝 First come, first served\n\nBring:\n- Unsigned document\n- Valid photo ID\n- All parties present\n\n*Not available for real estate or wills*",
+        
+        "do you have 3d printing": "3D printing services:\n\n🖨️ 2 MakerBot printers\n💵 $0.10/gram (min $2)\n📏 Max 6 hour print time\n🎨 Multiple colors available\n\nProcess:\n1. Submit design file\n2. Staff reviews\n3. Schedule print time\n4. Pick up when ready",
+        "do you lend out technology": "Technology lending:\n\n📱 Available for checkout:\n- Hotspots (1 week)\n- Chromebooks (2 weeks)\n- Tablets (2 weeks)\n- Cameras (3 days)\n- VR headsets (in-library use)\n\n*Must be 18+ with good standing account*",
+       
+        "do you have accessibility services": "Accessibility services:\n\n♿ Wheelchair access throughout\n🔊 Assistive listening devices\n📖 Large print collections\n👓 Magnifiers available\n📱 Screen reader software\n👨‍🦯 Monthly tactile tours\n\nAsk staff about specific needs!",
+        "do you have books in other languages": "World languages collection:\n\n🌍 Spanish\n🌏 Chinese\n🌎 French\n🌍 Russian\n🌏 Arabic\n🌎 Hindi\n\nPlus ESL materials and bilingual books\n\n*Suggestions for new acquisitions welcome*",
+        
+        "how do i volunteer at the library": "Volunteer opportunities:\n\n📚 Shelving assistance\n👶 Children's program helpers\n💻 Tech tutors\n📖 Literacy volunteers\n🌿 Garden maintenance\n\nRequirements:\n- Application\n- Background check\n- Orientation\n\nGreat for students needing service hours!",
+        "can i suggest a book for purchase": "Purchase suggestions:\n\n📖 Submit via:\n- Online form\n- Email\n- In person\n\nWe consider:\n- Relevance to collection\n- Budget\n- Community interest\n\nYou'll be notified if purchased!",
+        "what is your lost and found policy": "Lost & found:\n\n🔍 Items held for 30 days\n📱 Valuables secured at front desk\n👓 Glasses/keys in bins\n💻 Electronics wiped after 60 days\n\nCheck with staff or security\n\n*We're not responsible for lost items*",
+        "how do i get a job at the library": "Employment opportunities:\n\n💼 Check:\n- City government website\n- Library bulletin board\n- Indeed/LinkedIn postings\n\nPositions:\n- Librarians (MLIS required)\n- Circulation staff\n- Pages (shelving)\n- IT support\n\nApplications online only"
+    }
+}
